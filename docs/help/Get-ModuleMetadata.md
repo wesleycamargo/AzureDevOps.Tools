@@ -1,10 +1,10 @@
 ---
 document type: cmdlet
-external help file: PSScriptModule-Help.xml
+external help file: AzureDevOps.Tools-Help.xml
 HelpUri: https://github.com/YourUsername/PSScriptModule
 Locale: en-US
-Module Name: PSScriptModule
-ms.date: 04/07/2026
+Module Name: AzureDevOps.Tools
+ms.date: 04/08/2026
 PlatyPS schema version: 2024-05-01
 title: Get-ModuleMetadata
 ---
